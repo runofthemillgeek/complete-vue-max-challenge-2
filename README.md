@@ -1,18 +1,5 @@
-# challenge2
+# Challenge \#2 of Vue Guide by @mschwarzmueller
 
-> A Vue.js project
+This is my attempt at finishing the second challenge of the Vue series. I've tried my best to write clean code but I've beaten around the bush in a few places. Only using the concepts that leads up to challenge 1. Enjoy and leave your feedbacks in the issues!
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+:heart:
